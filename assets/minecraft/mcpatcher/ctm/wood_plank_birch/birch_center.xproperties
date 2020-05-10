@@ -1,0 +1,6 @@
+matchTiles=ctm/wood/194
+method=random
+tiles=266-270
+faces=sides
+weights=10 10 10 10 50
+metadata=2

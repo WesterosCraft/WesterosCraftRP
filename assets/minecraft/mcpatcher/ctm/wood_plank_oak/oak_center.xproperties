@@ -1,0 +1,6 @@
+matchBlocks=5a
+method=random
+tiles=251-254
+faces=all
+weights=10 10 10 10 50
+metadata=0

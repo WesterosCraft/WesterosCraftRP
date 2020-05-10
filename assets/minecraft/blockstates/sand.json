@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal": { "model": "sand" },
+        "red": { "model": "sand_grassy" }
+    }
+}
