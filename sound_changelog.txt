@@ -1,14 +1,6 @@
 WesterosCraft SFX Changelog [Hal9007]
 =======================================
 
-June 23, 2017 -------------------------------------------------------------
-
-~ Reimplemented all sounds in resource pack by renaming 'sound' folder to 'sounds'
-
-Mojang works in mysterious ways.
-
-
-
 August 24, 2014 -------------------------------------------------------------
 
 ~ Added initial pass of SoundBlocks to bundle with the WesterosBlocks mod:
