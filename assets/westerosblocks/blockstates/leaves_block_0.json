@@ -1,0 +1,84 @@
+{
+  "variants": {
+    "variant=3": [
+      { "model": "westerosblocks:leaves_block_0_3_bf" },
+      { "model": "westerosblocks:leaves_block_0_3_bf", "y": 90 },
+      { "model": "westerosblocks:leaves_block_0_3_bf", "y": 180 },
+      { "model": "westerosblocks:leaves_block_0_3_bf", "y": 270 },
+      { "model": "westerosblocks:leaves_block_0_3_bf2" },
+      { "model": "westerosblocks:leaves_block_0_3_bf2", "y": 90 },
+      { "model": "westerosblocks:leaves_block_0_3_bf2", "y": 180 },
+      { "model": "westerosblocks:leaves_block_0_3_bf2", "y": 270 }
+    ],
+    "variant=2": [
+      { "model": "westerosblocks:leaves_block_0_2_bf" },
+      { "model": "westerosblocks:leaves_block_0_2_bf", "y": 90 },
+      { "model": "westerosblocks:leaves_block_0_2_bf", "y": 180 },
+      { "model": "westerosblocks:leaves_block_0_2_bf", "y": 270 },
+      { "model": "westerosblocks:leaves_block_0_2_bf2" },
+      { "model": "westerosblocks:leaves_block_0_2_bf2", "y": 90 },
+      { "model": "westerosblocks:leaves_block_0_2_bf2", "y": 180 },
+      { "model": "westerosblocks:leaves_block_0_2_bf2", "y": 270 }
+    ],
+    "variant=1": [
+      { "model": "westerosblocks:leaves_block_0_1_bf" },
+      { "model": "westerosblocks:leaves_block_0_1_bf", "y": 90 },
+      { "model": "westerosblocks:leaves_block_0_1_bf", "y": 180 },
+      { "model": "westerosblocks:leaves_block_0_1_bf", "y": 270 },
+      { "model": "westerosblocks:leaves_block_0_1_bf2" },
+      { "model": "westerosblocks:leaves_block_0_1_bf2", "y": 90 },
+      { "model": "westerosblocks:leaves_block_0_1_bf2", "y": 180 },
+      { "model": "westerosblocks:leaves_block_0_1_bf2", "y": 270 }
+    ],
+    "variant=0": [
+      { "model": "westerosblocks:leaves_block_0_0_bf" },
+      { "model": "westerosblocks:leaves_block_0_0_bf", "y": 90 },
+      { "model": "westerosblocks:leaves_block_0_0_bf", "y": 180 },
+      { "model": "westerosblocks:leaves_block_0_0_bf", "y": 270 },
+      { "model": "westerosblocks:leaves_block_0_0_bf2" },
+      { "model": "westerosblocks:leaves_block_0_0_bf2", "y": 90 },
+      { "model": "westerosblocks:leaves_block_0_0_bf2", "y": 180 },
+      { "model": "westerosblocks:leaves_block_0_0_bf2", "y": 270 }
+    ],
+    "variant=7": [
+      { "model": "westerosblocks:leaves_block_0_7_bf" },
+      { "model": "westerosblocks:leaves_block_0_7_bf", "y": 90 },
+      { "model": "westerosblocks:leaves_block_0_7_bf", "y": 180 },
+      { "model": "westerosblocks:leaves_block_0_7_bf", "y": 270 },
+      { "model": "westerosblocks:leaves_block_0_7_bf2" },
+      { "model": "westerosblocks:leaves_block_0_7_bf2", "y": 90 },
+      { "model": "westerosblocks:leaves_block_0_7_bf2", "y": 180 },
+      { "model": "westerosblocks:leaves_block_0_7_bf2", "y": 270 }
+    ],
+    "variant=6": [
+      { "model": "westerosblocks:leaves_block_0_6_bf" },
+      { "model": "westerosblocks:leaves_block_0_6_bf", "y": 90 },
+      { "model": "westerosblocks:leaves_block_0_6_bf", "y": 180 },
+      { "model": "westerosblocks:leaves_block_0_6_bf", "y": 270 },
+      { "model": "westerosblocks:leaves_block_0_6_bf2" },
+      { "model": "westerosblocks:leaves_block_0_6_bf2", "y": 90 },
+      { "model": "westerosblocks:leaves_block_0_6_bf2", "y": 180 },
+      { "model": "westerosblocks:leaves_block_0_6_bf2", "y": 270 }
+    ],
+    "variant=5": [
+      { "model": "westerosblocks:leaves_block_0_5_bf" },
+      { "model": "westerosblocks:leaves_block_0_5_bf", "y": 90 },
+      { "model": "westerosblocks:leaves_block_0_5_bf", "y": 180 },
+      { "model": "westerosblocks:leaves_block_0_5_bf", "y": 270 },
+      { "model": "westerosblocks:leaves_block_0_5_bf2" },
+      { "model": "westerosblocks:leaves_block_0_5_bf2", "y": 90 },
+      { "model": "westerosblocks:leaves_block_0_5_bf2", "y": 180 },
+      { "model": "westerosblocks:leaves_block_0_5_bf2", "y": 270 }
+    ],
+    "variant=4": [
+      { "model": "westerosblocks:leaves_block_0_4_bf" },
+      { "model": "westerosblocks:leaves_block_0_4_bf", "y": 90 },
+      { "model": "westerosblocks:leaves_block_0_4_bf", "y": 180 },
+      { "model": "westerosblocks:leaves_block_0_4_bf", "y": 270 },
+      { "model": "westerosblocks:leaves_block_0_4_bf2" },
+      { "model": "westerosblocks:leaves_block_0_4_bf2", "y": 90 },
+      { "model": "westerosblocks:leaves_block_0_4_bf2", "y": 180 },
+      { "model": "westerosblocks:leaves_block_0_4_bf2", "y": 270 }
+    ]
+  }
+}

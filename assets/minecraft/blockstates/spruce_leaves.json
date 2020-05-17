@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "spruce_leaves_bf" },
+            { "model": "spruce_leaves_bf", "y": 90 },
+            { "model": "spruce_leaves_bf", "y": 180 },
+            { "model": "spruce_leaves_bf", "y": 270 },
+            { "model": "spruce_leaves_bf2" },
+            { "model": "spruce_leaves_bf2", "y": 90 },
+            { "model": "spruce_leaves_bf2", "y": 180 },
+            { "model": "spruce_leaves_bf2", "y": 270 }
+        ],
+        "inventory": { "model": "spruce_leaves" }
+    }
+}

@@ -1,5 +1,4 @@
 # WesterosCraft Resource Pack Repository #
 
-This is the current repository for the resource pack for WesterosCraft.  
-
-This branch (v1.11.2) is specifically for the v1.11.2 client and server (current production version).
+NOTICE: This repository is officially obsolete (as of 2017-05-27) - All future updates will be done in our new repository,
+https://gitlab.com/westeroscraft/westeroscraftrp
