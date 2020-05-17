@@ -1,3 +1,16 @@
+15 May 2020:
+-Added stairs/slabs/walls for river cobble & small smooth stone brick
+-Added arbor small brick
+-Added normal & ornate arrow slits for small orange brick
+-Added snowy spruce leaves block
+-Changed terrainset textures
+-Changed ocean pebble texture to match new terrainset
+-Changed arbor brick to have less contrast and no border
+-Fixed leaves biome shading by adding custom betterfoliage effect
+-Fixed stair textures bug
+-Fixed discoloured snow tile
+-Fixed bed bottom textures
+
 4 October 2019:
 -Changed coin block to have more varied shapes and types
 -Changed Brown Mushroom 11 and 12 back to original textures
