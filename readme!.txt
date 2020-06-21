@@ -26,7 +26,7 @@ artists, please consult the individual homepages and seek their permission.
 Do not sell this resource pack! Ever.
 
 Cheers,
-Thamus_Knoward, Emoticone, Moozipan, Marken4, Hal9007
+Thamus_Knoward, Emoticone, CashBanks, Moozipan, Marken4, Hal9007
 
 
 Special thanks to Doku, Misa, Hickerydickery, WantedRobot, SMP, WhitefireNeo, Monsterfish_, Wheellee, and the following users from the DokuCommunity for their input on the respective textures:

@@ -1,3 +1,7 @@
+20 June 2020:
+-Changed mob textures to CashBanks textures
+-Fixed vanilla bed texture
+
 26 May 2020:
 -Added stairs/slabs/walls/fences for terrainset blocks
 
