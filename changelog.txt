@@ -1,3 +1,29 @@
+7 September 2020:
+-Added vivid dark sandstone engraved stone and arrow slits
+-Added red fork pink sandstone/brick variants
+-Added timber window frames
+-Added redwyne & grafton banners
+-Added valyrian stone wall
+-Added dirt/gravel forest paths
+-Added wood covers as custom blocks for each standard plank variant
+-Added northern d&w variants (white, brown, orange brick, yellow, red, grey brick, blue, green)
+-Added oak d&w variants (yellow, orange, lannisport brick)
+-Added whitewashed d&w
+-Added vertical d&w for all existing variants
+-Added close-studding d&w for primary sets (white/brown/orange brick) + whitewashed
+-Added vine-like dappled moss block
+-Added cushion moss
+-Added flowstone
+-Added grey sandstone terrainset
+-Added alt terrainsets for reach, westerlands, red mountains, dorne, stormlands
+-Changed river cobble to have random CTM
+-Changed pink thistle to have 2-high CTM
+-Changed blue slate to be a paler, grey-ish blue
+-Changed eastern island, iron island terrainsets to remove moss
+-Changed reach, westerlands, dorne, river terrainsets to have better textures
+-Changed jasmine vine to use vine block model (old ID still exists but is deprecated)
+-Fixed new mob textures changing skull blocks
+
 20 June 2020:
 -Changed mob textures to CashBanks textures
 -Fixed vanilla bed texture
