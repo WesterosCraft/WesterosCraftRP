@@ -14,11 +14,13 @@
 -Added vine-like dappled moss block
 -Added cushion moss
 -Added flowstone
+-Added volcanic rock
 -Added grey sandstone terrainset
 -Added alt terrainsets for reach, westerlands, red mountains, dorne, stormlands
 -Changed river cobble to have random CTM
 -Changed pink thistle to have 2-high CTM
 -Changed blue slate to be a paler, grey-ish blue
+-Changed ore blocks to have new textures
 -Changed eastern island, iron island terrainsets to remove moss
 -Changed reach, westerlands, dorne, river terrainsets to have better textures
 -Changed jasmine vine to use vine block model (old ID still exists but is deprecated)
