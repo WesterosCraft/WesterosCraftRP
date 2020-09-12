@@ -1,3 +1,14 @@
+10 September 2020:
+-Added renly banner
+-Added slabs/stairs/wall for cushion moss
+-Changed color of Redwyne banner
+-Changed all timber & wattle blocks to have wood top
+-Changed name of "Clay" to "Red Clay Plaster"
+-Changed whitewashed timber to be more gray, smoothed infill
+-Changed white wood planks to match whitewashed timber & vertical planks better
+-Changed timber window frames to have filled in corners
+-Fixed dappled moss accidentally being named jasmine vines
+
 7 September 2020:
 -Added vivid dark sandstone engraved stone and arrow slits
 -Added red fork pink sandstone/brick variants
