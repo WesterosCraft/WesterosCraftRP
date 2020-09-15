@@ -2,10 +2,12 @@
 -Added vine model versions of falling water blocks
 -Added renly banner
 -Added slabs/stairs/wall for cushion moss
+-Added yellow daub block to match new northern yellow texture
 -Changed color of Redwyne banner
 -Changed all timber & wattle blocks to have wood top
 -Changed name of "Clay" to "Red Clay Plaster"
 -Changed whitewashed timber to be more gray, smoothed infill
+-Changed northern yellow timber block to have paler infill
 -Changed white wood planks to match whitewashed timber & vertical planks better
 -Changed timber window frames to have filled in corners
 -Fixed dappled moss accidentally being named jasmine vines
