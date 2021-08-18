@@ -1,15 +1,15 @@
 {
     "variants": {
         "normal": [
-            { "model": "minecraft:spruce_leaves_bf" },
-            { "model": "minecraft:spruce_leaves_bf", "y": 90 },
-            { "model": "minecraft:spruce_leaves_bf", "y": 180 },
-            { "model": "minecraft:spruce_leaves_bf", "y": 270 },
-            { "model": "minecraft:spruce_leaves_bf2" },
-            { "model": "minecraft:spruce_leaves_bf2", "y": 90 },
-            { "model": "minecraft:spruce_leaves_bf2", "y": 180 },
-            { "model": "minecraft:spruce_leaves_bf2", "y": 270 }
+            { "model": "minecraft:block/spruce_leaves_bf" },
+            { "model": "minecraft:block/spruce_leaves_bf", "y": 90 },
+            { "model": "minecraft:block/spruce_leaves_bf", "y": 180 },
+            { "model": "minecraft:block/spruce_leaves_bf", "y": 270 },
+            { "model": "minecraft:block/spruce_leaves_bf2" },
+            { "model": "minecraft:block/spruce_leaves_bf2", "y": 90 },
+            { "model": "minecraft:block/spruce_leaves_bf2", "y": 180 },
+            { "model": "minecraft:block/spruce_leaves_bf2", "y": 270 }
         ],
-        "inventory": { "model": "minecraft:spruce_leaves" }
+        "inventory": { "model": "minecraft:block/spruce_leaves" }
     }
 }

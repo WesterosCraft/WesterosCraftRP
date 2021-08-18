@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": { "model": "minecraft:red_sand" }
+        "": { "model": "minecraft:block/red_sand" }
     }
 }
