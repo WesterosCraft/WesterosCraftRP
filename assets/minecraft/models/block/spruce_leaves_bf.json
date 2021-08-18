@@ -3,9 +3,9 @@
 	"ambientocclusion": true,
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "blocks/leaves_spruce",
-		"1": "blocks/leaves_bf_spruce",
-		"particle": "blocks/leaves_spruce"
+		"0": "minecraft:block/leaves_spruce",
+		"1": "minecraft:block/leaves_bf_spruce",
+		"particle": "minecraft:block/leaves_spruce"
 	},
 	"elements": [
 		{

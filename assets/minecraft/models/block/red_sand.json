@@ -1,7 +1,7 @@
 {
-    "parent": "block/cube_column",
+    "parent": "minecraft:block/cube_column",
     "textures": {
-        "end": "blocks/sand",
-        "side": "blocks/sand"
+        "end": "minecraft:block/sand",
+        "side": "minecraft:block/sand"
     }
 }

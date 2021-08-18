@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "red_sand" }
+        "": { "model": "minecraft:red_sand" }
     }
 }

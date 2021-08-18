@@ -1,8 +1,8 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/snow",
-        "texture": "blocks/snow"
+        "particle": "minecraft:block/snow",
+        "texture": "minecraft:block/snow"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],
