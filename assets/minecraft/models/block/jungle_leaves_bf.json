@@ -3,9 +3,9 @@
 	"ambientocclusion": true,
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "minecraft:block/leaves_jungle",
+		"0": "minecraft:block/jungle_leaves",
 		"1": "minecraft:block/leaves_bf_jungle",
-		"particle": "minecraft:block/leaves_jungle"
+		"particle": "minecraft:block/jungle_leaves"
 	},
 	"elements": [
 		{
