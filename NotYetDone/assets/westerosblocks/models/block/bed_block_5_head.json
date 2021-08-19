@@ -1,9 +1,0 @@
-{
-  "parent": "westerosblocks:block/bed_raised_head",
-  "textures": {
-    "bedtop": "westerosblocks:blocks/bed_block_0/bed_noble_red_0",
-    "bedend": "westerosblocks:blocks/bed_block_0/bed_noble_red_4",
-    "bedside": "westerosblocks:blocks/bed_block_0/bed_noble_red_2",
-    "bottom": "westerosblocks:blocks/wood_block_0/planks_spruce"
-  }
-}
