@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/obsidian0" },
+      { "model": "minecraft:block/obsidian1" },
+      { "model": "minecraft:block/obsidian2" },
+      { "model": "minecraft:block/obsidian3" },
+      { "model": "minecraft:block/obsidian4" },
+      { "model": "minecraft:block/obsidian5" },
+      { "model": "minecraft:block/obsidian6" },
+      { "model": "minecraft:block/obsidian7" }
+    ]
+  }
+}
