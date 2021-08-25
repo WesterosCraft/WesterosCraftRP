@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/ctm_pane_side",
+    "textures": {
+        "cap": "minecraft:block/orange_stained_glass_pane_top",
+        "side": "minecraft:block/orange_stained_glass"
+    }
+}

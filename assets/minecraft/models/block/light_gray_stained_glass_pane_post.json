@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/ctm_pane_post",
+    "textures": {
+        "cap": "minecraft:block/light_gray_stained_glass_pane_top",
+        "side": "minecraft:block/light_gray_stained_glass"
+    }
+}

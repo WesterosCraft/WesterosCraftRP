@@ -1,8 +1,7 @@
 {
     "parent": "minecraft:block/block",
     "textures": {
-        "particle": "#side",
-        "cap": "#cap"
+        "particle": "#side"
     },
     "elements": [
         {
