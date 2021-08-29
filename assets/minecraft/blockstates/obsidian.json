@@ -1,14 +1,14 @@
 {
   "variants": {
     "": [
-      { "model": "minecraft:block/obsidian0" },
-      { "model": "minecraft:block/obsidian1" },
-      { "model": "minecraft:block/obsidian2" },
-      { "model": "minecraft:block/obsidian3" },
-      { "model": "minecraft:block/obsidian4" },
-      { "model": "minecraft:block/obsidian5" },
-      { "model": "minecraft:block/obsidian6" },
-      { "model": "minecraft:block/obsidian7" }
+      { "model": "minecraft:block/obsidian/base_v1" },
+      { "model": "minecraft:block/obsidian/base_v2" },
+      { "model": "minecraft:block/obsidian/base_v3" },
+      { "model": "minecraft:block/obsidian/base_v4" },
+      { "model": "minecraft:block/obsidian/base_v5" },
+      { "model": "minecraft:block/obsidian/base_v6" },
+      { "model": "minecraft:block/obsidian/base_v7" },
+      { "model": "minecraft:block/obsidian/base_v8" }
     ]
   }
 }
