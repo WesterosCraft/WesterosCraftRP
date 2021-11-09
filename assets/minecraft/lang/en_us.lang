@@ -751,7 +751,7 @@ tile.fenceGate.name=Oak Fence Gate
 tile.spruceFenceGate.name=Spruce Fence Gate
 tile.birchFenceGate.name=Birch Fence Gate
 tile.jungleFenceGate.name=Jungle Fence Gate
-tile.darkOakFenceGate.name=Dark Oak Fence Gate
+tile.darkOakFenceGate.name=Dark Northern Wood Fence Gate
 tile.acaciaFenceGate.name=Acacia Fence Gate
 tile.pumpkinStem.name=Pumpkin Stem
 tile.pumpkin.name=Pumpkin
@@ -1151,7 +1151,7 @@ item.dragon_breath.name=Dragon's Breath
 item.elytra.name=Elytra
 item.totem.name=Totem of Undying
 item.shulkerShell.name=Shulker Shell
-item.ironNugget.name=Iron Nugget
+item.ironNugget.name=Folding Fan
 
 container.inventory=Inventory
 container.hopper=DO NOT USE

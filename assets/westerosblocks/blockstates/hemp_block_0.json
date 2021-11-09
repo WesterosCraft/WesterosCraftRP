@@ -1,0 +1,58 @@
+{
+  "variants": {
+    "variant=2": [
+      { "model": "westerosblocks:hemp-dense"},
+      { "model": "westerosblocks:hemp-dense", "y": 90},
+      { "model": "westerosblocks:hemp-dense", "y": 180},
+      { "model": "westerosblocks:hemp-dense", "y": 270}
+    ],
+    "variant=1": [
+      { "model": "westerosblocks:hemp-tall1"},
+      { "model": "westerosblocks:hemp-tall2"},
+      { "model": "westerosblocks:hemp-tall3"},
+      { "model": "westerosblocks:hemp-tall4"},
+      { "model": "westerosblocks:hemp-tall5"},
+      { "model": "westerosblocks:hemp-tall6"},
+      { "model": "westerosblocks:hemp-tall7"},
+      { "model": "westerosblocks:hemp-tall1", "y": 90},
+      { "model": "westerosblocks:hemp-tall2", "y": 90},
+      { "model": "westerosblocks:hemp-tall3", "y": 90},
+      { "model": "westerosblocks:hemp-tall4", "y": 90},
+      { "model": "westerosblocks:hemp-tall5", "y": 90},
+      { "model": "westerosblocks:hemp-tall6", "y": 90},
+      { "model": "westerosblocks:hemp-tall7", "y": 90},
+      { "model": "westerosblocks:hemp-tall1", "y": 180},
+      { "model": "westerosblocks:hemp-tall2", "y": 180},
+      { "model": "westerosblocks:hemp-tall3", "y": 180},
+      { "model": "westerosblocks:hemp-tall4", "y": 180},
+      { "model": "westerosblocks:hemp-tall5", "y": 180},
+      { "model": "westerosblocks:hemp-tall6", "y": 180},
+      { "model": "westerosblocks:hemp-tall7", "y": 180},
+      { "model": "westerosblocks:hemp-tall1", "y": 270},
+      { "model": "westerosblocks:hemp-tall2", "y": 270},
+      { "model": "westerosblocks:hemp-tall3", "y": 270},
+      { "model": "westerosblocks:hemp-tall4", "y": 270},
+      { "model": "westerosblocks:hemp-tall5", "y": 270},
+      { "model": "westerosblocks:hemp-tall6", "y": 270},
+      { "model": "westerosblocks:hemp-tall7", "y": 270}
+    ],
+    "variant=0": [
+    	{ "model": "westerosblocks:hemp-short1"},
+    	{ "model": "westerosblocks:hemp-short2"},
+    	{ "model": "westerosblocks:hemp-short3"},
+    	{ "model": "westerosblocks:hemp-short4"},
+      { "model": "westerosblocks:hemp-short1", "y": 90},
+    	{ "model": "westerosblocks:hemp-short2", "y": 90},
+    	{ "model": "westerosblocks:hemp-short3", "y": 90},
+    	{ "model": "westerosblocks:hemp-short4", "y": 90},
+      { "model": "westerosblocks:hemp-short1", "y": 180},
+    	{ "model": "westerosblocks:hemp-short2", "y": 180},
+    	{ "model": "westerosblocks:hemp-short3", "y": 180},
+    	{ "model": "westerosblocks:hemp-short4", "y": 180},
+      { "model": "westerosblocks:hemp-short1", "y": 270},
+    	{ "model": "westerosblocks:hemp-short2", "y": 270},
+    	{ "model": "westerosblocks:hemp-short3", "y": 270},
+    	{ "model": "westerosblocks:hemp-short4", "y": 270}
+    ]
+  }
+}

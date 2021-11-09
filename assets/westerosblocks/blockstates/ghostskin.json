@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "facing=north,variant=0": [
+      { "model": "westerosblocks:ghostskin1", "y": 270},
+      { "model": "westerosblocks:ghostskin2", "y": 270},
+      { "model": "westerosblocks:ghostskin3", "y": 270},
+      { "model": "westerosblocks:ghostskin4", "y": 270},
+      { "model": "westerosblocks:ghostskin5", "y": 270},
+      { "model": "westerosblocks:ghostskin6", "y": 270}
+    ],
+    "facing=west,variant=0": [
+      { "model": "westerosblocks:ghostskin1", "y": 180},
+      { "model": "westerosblocks:ghostskin2", "y": 180},
+      { "model": "westerosblocks:ghostskin3", "y": 180},
+      { "model": "westerosblocks:ghostskin4", "y": 180},
+      { "model": "westerosblocks:ghostskin5", "y": 180},
+      { "model": "westerosblocks:ghostskin6", "y": 180}
+    ],
+    "facing=south,variant=0": [
+      { "model": "westerosblocks:ghostskin1", "y": 90},
+      { "model": "westerosblocks:ghostskin2", "y": 90},
+      { "model": "westerosblocks:ghostskin3", "y": 90},
+      { "model": "westerosblocks:ghostskin4", "y": 90},
+      { "model": "westerosblocks:ghostskin5", "y": 90},
+      { "model": "westerosblocks:ghostskin6", "y": 90}
+    ],
+    "facing=east,variant=0": [
+      { "model": "westerosblocks:ghostskin1"},
+      { "model": "westerosblocks:ghostskin2"},
+      { "model": "westerosblocks:ghostskin3"},
+      { "model": "westerosblocks:ghostskin4"},
+      { "model": "westerosblocks:ghostskin5"},
+      { "model": "westerosblocks:ghostskin6"}
+    ]
+  }
+}

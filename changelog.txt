@@ -1,3 +1,48 @@
+13 November 2021:
+-Added variants for remaining wood colors
+-Added light/dark versions of wattle fence
+-Added ghostskin
+-Added hemp blocks (short/tall/dense variants)
+-Added more variants of faith carved stone
+-Added stacked & piled bone blocks & variants
+-Added firewood slab
+-Added path blocks for dorne dusty dirt, dorne dry soil, and reach gravel
+-Added slab block for dorne dry soil
+-Added arbor brick furnace blocks
+-Added black glass candle variant
+-Added variants for snow/ice blocks (note: the latter have some minor rendering issues that will be fixed in the future)
+-Added snowy versions of dark/light thatch
+-Added dock leaf block and removed texture from nettle CTM
+-Added snowy weirwood leaves
+-Added domestic/workshop/shop/yard utility blocks
+-Added wool/thatch carpets as custom blocks
+-Added more arrow slit options
+-Added more hopper options
+-Added stair/slab/wall/fence variants for light oldtown brick
+-Added pale pink bricks & variants for Maidenpool
+-Added stair/slab/wall/fence for (icy) northern cobble, faint light grey stone, small orange brick, white granite, and small white brick
+-Added great road etchings
+-Added northern fence gate (on vanilla dark oak fence gate block)
+-Added orange slate for Arbor/Oldtown
+-Added wood and metal variants of tip blocks
+-Added variants for iron, steel, and gold
+-Added variants for arbor small brick
+-Changed furnace blocks to have hollow models (& added vanilla unlit stone brick furnace as custom block)
+-Changed terrainset, ores, and cushion moss to have overlay CTMs
+-Changed steel/iron blocks to have similar texture to bronze/gold
+-Changed grass/foliage shading in desert biome to yellower variant of mushroom_island (tentative)
+-Changed shading of grey bricks in jungle biome to browner hue
+-Changed current pink brick blocks to sandy pink textures that work with vivid dark sandstone
+-Changed arbor brick texture to be more similar to dun brick
+-Changed ash/scorched earth blocks to have top texture on all sides
+-Changed dirt texture in jungle biome to not have moss
+-Changed grassy sand to have proper colors in extreme_hills biome
+-Changed iron nugget item texture to folding fan
+-Changed stormlands & white harbor blocks to have generic names
+-Fixed bug with jungle biome shading and height
+-Fixed oak timber white daub lefthatch/righthatch having wrong inventory icons
+-Fixed wattle fence having transparent inventory icon
+
 10 September 2020:
 -Added vine model versions of falling water blocks
 -Added renly banner

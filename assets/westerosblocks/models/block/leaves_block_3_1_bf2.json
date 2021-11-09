@@ -1,0 +1,87 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": true,
+	"texture_size": [32, 32],
+	"textures": {
+    "0": "westerosblocks:blocks/leaves_block_0/leaves_weirwood_snowy",
+		"1": "westerosblocks:blocks/leaves_block_bf/leaves_bf_weirwood_snowy",
+		"bottom": "westerosblocks:blocks/leaves_block_0/leaves_weirwood_snowy_bottom",
+		"top": "westerosblocks:blocks/leaves_block_0/leaves_weirwood_snowy_top",
+    "particle": "westerosblocks:blocks/leaves_block_0/leaves_weirwood_snowy"
+	},
+	"elements": [
+		{
+			"name": "Base",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0" },
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0" },
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0" },
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0" },
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top" },
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom" }
+			}
+		},
+		{
+			"name": "Cross1",
+			"from": [-10, -10, 5],
+			"to": [28, 28, 5],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8, 8, 8]},
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1" }
+			}
+		},
+		{
+			"name": "Cross2",
+			"from": [-10, -10, 7],
+			"to": [28, 28, 7],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 8, 8]},
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1" }
+			}
+		},
+		{
+			"name": "Cross3",
+			"from": [10, -10, -10],
+			"to": [10, 28, 28],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8, 8, 8]},
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1" }
+			}
+		},
+		{
+			"name": "Cross4",
+			"from": [12, -10, -10],
+			"to": [12, 28, 28],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 8, 8]},
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1" },
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1" }
+			}
+		}
+	]
+}

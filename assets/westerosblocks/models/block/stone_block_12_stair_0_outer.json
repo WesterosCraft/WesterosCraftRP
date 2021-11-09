@@ -1,0 +1,11 @@
+{
+  "parent": "westerosblocks:block/stairs_directional/outer_stairs",
+  "textures": {
+    "bottom": "westerosblocks:blocks/bone_block_0/bone_stacked_front",
+    "top": "westerosblocks:blocks/bone_block_0/bone_stacked_side",
+    "side": "westerosblocks:blocks/bone_block_0/bone_stacked_side_rot",
+    "front": "westerosblocks:blocks/bone_block_0/bone_stacked_front",
+    "back": "westerosblocks:blocks/bone_block_0/bone_stacked_front",
+    "particle": "westerosblocks:blocks/bone_block_0/bone_stacked_side"
+  }
+}
