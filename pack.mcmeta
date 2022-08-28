@@ -1,6 +1,8 @@
 {
   "pack": {
-    "pack_format": 6,
-    "description": "The WesterosCraft Resource Pack"
+    "description": "The WesterosCraft Resource Pack",
+    "pack_format": 9,
+    "forge:resource_pack_format": 8,
+    "forge:data_pack_format": 9
   }
 }
