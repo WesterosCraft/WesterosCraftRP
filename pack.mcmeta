@@ -1,6 +1,7 @@
 {
   "pack": {
-    "description": "The WesterosCraft Resource Pack",
-    "pack_format": 8
-  }
+    "pack_format": 8,
+    "description": "§4Ice and Fire\n§6V1.18.2 By WesterosCraft"
+  },
+  "__game_version": "1.18.2"
 }
