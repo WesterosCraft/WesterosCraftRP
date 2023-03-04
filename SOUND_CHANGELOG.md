@@ -1,5 +1,4 @@
-WesterosCraft SFX Changelog [Hal9007]
-=======================================
+# WesterosCraft SFX Changelog [Hal9007]
 
 June 23, 2017 -------------------------------------------------------------
 
@@ -7,45 +6,15 @@ June 23, 2017 -------------------------------------------------------------
 
 Mojang works in mysterious ways.
 
-
-
 August 24, 2014 -------------------------------------------------------------
 
-~ Added initial pass of SoundBlocks to bundle with the WesterosBlocks mod:
-	
-	- Tavern
-	- Blacksmith
-	- Stables
-	- Windmill
-	- Armory
-	- Butcher
-	- Carpenter
-	- Dungeon
-	- Sept
-	- Rookery
-	- Sewer
-	- Cave Ambience
-	- Jenny of Oldstones (experimental music block)
-	- Iron Mine
-	- Heart Tree
-	- Docked Ship
-	- Ship Sails
-	- Market
-	- Training Yard
-	- Beehive
-	- Flag Flapping
-	- Rushing Water
-	- Warning Bells
-	- Portcullis (4-sec and 6-sec)
-	- Night's Watch Hornblast (1,2, and 3)
+~ Added initial pass of SoundBlocks to bundle with the WesterosBlocks mod: - Tavern - Blacksmith - Stables - Windmill - Armory - Butcher - Carpenter - Dungeon - Sept - Rookery - Sewer - Cave Ambience - Jenny of Oldstones (experimental music block) - Iron Mine - Heart Tree - Docked Ship - Ship Sails - Market - Training Yard - Beehive - Flag Flapping - Rushing Water - Warning Bells - Portcullis (4-sec and 6-sec) - Night's Watch Hornblast (1,2, and 3)
 
 The purpose of these blocks is to emulate sounds that come from a source point
 and encompass a fairly small area. These add immersion to the RPG world by
 allowing players to guess the purpose of any given building before entering.
 Triggered sounds (such as warning bells or hornblasts) also add immersion
 by allowing players to interact with a soundscape that everyone around can hear.
-
-
 
 August 27, 2013 -------------------------------------------------------------
 
@@ -58,8 +27,6 @@ August 27, 2013 -------------------------------------------------------------
 ~ Changed the default click sound (because why the hell not).
 ~ Made eating sounds a little bit less outgoing...
 ~ Changed wood sounds and two steps now have a slight creak for realism.
-
-
 
 July 20, 2013 (from default) ------------------------------------------------
 
