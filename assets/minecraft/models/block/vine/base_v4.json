@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/vine/base",
-  "textures": {
-    "vines": "minecraft:block/vine/side4"
-  }
-}

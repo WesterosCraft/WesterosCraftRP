@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/vine/base_u",
-  "textures": {
-    "vines": "minecraft:block/vine/top2"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "variants": {
-    "": [
-     { "model": "minecraft:block/gold_block/gold_block1" },
-     { "model": "minecraft:block/gold_block/gold_block2" },
-     { "model": "minecraft:block/gold_block/gold_block3" }
-    ]
-  }
-}

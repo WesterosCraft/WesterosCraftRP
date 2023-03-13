@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "minecraft:block/dirt/top_bot2",
-    "side": "minecraft:block/dirt"
-  }
-}

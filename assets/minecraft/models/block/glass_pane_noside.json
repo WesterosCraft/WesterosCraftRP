@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block/ctm_pane_noside",
-    "textures": {
-        "cap": "minecraft:block/glass_pane_top",
-        "side": "minecraft:block/glass"
-    }
-}
